@@ -1,0 +1,19 @@
+{
+  "name": "bmmp-utils",
+  "version": "1.0.0",
+  "description": "A dummy export to show npm install git@package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swingingtom/BMMP-UTILS-EXTERNAL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swingingtom/BMMP-UTILS-EXTERNAL/issues"
+  },
+  "homepage": "https://github.com/swingingtom/BMMP-UTILS-EXTERNAL#readme"
+}
