@@ -259,3 +259,5 @@ var BMMP = (function () {
     return lib;
 
 })();
+
+module.exports = BMMP;
