@@ -2,7 +2,7 @@
   "name": "bmmp-utils",
   "version": "1.0.0",
   "description": "A dummy export to show npm install git@package",
-  "main": "index.js",
+  "main": "BMMP.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
